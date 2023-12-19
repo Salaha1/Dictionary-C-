@@ -1,0 +1,10 @@
+big:large:great:huge#small#tiny#little
+difficult:hard#easy
+new:recent#used
+clean:tidy#dirty
+safe:secure#dangerous
+friendly:outgoing#unfriendly
+good:great#bad
+cheap:inexpensive#expensive
+intresting:fascinating#boring
+quiet:still#noisy
